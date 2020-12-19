@@ -8,7 +8,8 @@
 * [Setup](#setup)
 
 ## :page_facing_up: General info
-Control servomotor with a joystick.
+Control servomotor with a joystick.<br><br>
+[![joyservo.png](https://i.postimg.cc/J7bzmLsy/joyservo.png)](https://postimg.cc/Wt1v6x6j)<br><br>
 	
 ## :computer: Technologies
 JoystickAndServomotor is created with:
